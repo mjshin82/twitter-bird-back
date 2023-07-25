@@ -2,7 +2,7 @@
 // @name        Twitter Bird Back
 // @namespace   Violentmonkey Scripts
 // @match       https://twitter.com/*
-// @version     0.5.1
+// @version     0.1
 // @author      mj shin
 // @description Please use with violentmonkey
 // @require     https://code.jquery.com/jquery-3.7.0.slim.min.js
