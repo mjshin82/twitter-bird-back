@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Twitter Icon
+// @name        Twitter Bird Back
 // @namespace   Violentmonkey Scripts
 // @match       https://twitter.com/*
 // @version     0.5.1
